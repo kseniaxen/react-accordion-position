@@ -1,0 +1,10 @@
+.article-list__li {
+    list-style: none;
+}
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
